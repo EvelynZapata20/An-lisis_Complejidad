@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=datos
+comment1.params=a
+comment1.target=datos(java.util.ArrayList)
+comment2.params=arreglo
+comment2.target=void\ storage(java.util.ArrayList)
+comment3.params=cadena
+comment3.target=void\ saveResult(java.lang.String)
+comment4.params=n
+comment4.target=int[]\ leer(int)
+numComments=5

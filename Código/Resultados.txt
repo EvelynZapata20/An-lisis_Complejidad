@@ -1,0 +1,16 @@
+Algoritmo: QuickSort  | Registros: 10 | Tiempo: 1.31E-5
+Algoritmo: BubbleSort | Registros: 10 | Tiempo: 1.09E-5
+Algoritmo: QuickSort  | Registros: 100 | Tiempo: 1.171E-4
+Algoritmo: BubbleSort | Registros: 100 | Tiempo: 2.428E-4
+Algoritmo: QuickSort  | Registros: 1000 | Tiempo: 7.991E-4
+Algoritmo: BubbleSort | Registros: 1000 | Tiempo: 0.0130509
+Algoritmo: QuickSort  | Registros: 10000 | Tiempo: 0.0043113
+Algoritmo: BubbleSort | Registros: 10000 | Tiempo: 0.2319014
+Algoritmo: QuickSort  | Registros: 100000 | Tiempo: 0.0184988
+Algoritmo: BubbleSort | Registros: 100000 | Tiempo: 25.3202271
+Algoritmo: QuickSort  | Registros: 1000000 | Tiempo: 0.2287128
+Algoritmo: BubbleSort | Registros: 1000000 | Tiempo: 2226.0949159
+Algoritmo: QuickSort  | Registros: 3000000 | Tiempo: 0.7154559
+Algoritmo: BubbleSort | Registros: 3000000 | Tiempo: 20305.8418516
+Algoritmo: QuickSort  | Registros: 5000000 | Tiempo: 1.3086777
+Algoritmo: BubbleSort | Registros: 5000000 | Tiempo: 70963.5773449

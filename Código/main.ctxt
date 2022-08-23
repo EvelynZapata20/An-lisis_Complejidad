@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=c
+comment1.target=void\ crearArchivo(int)
+comment2.params=c
+comment2.target=void\ ordenar(int)
+comment2.text=public\ static\ void\ bubbleSort\ (int\ c)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ bubbleSort\ cant\ \=\ new\ bubbleSort(c);\r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ }\r\n\ \ \ \ \r\n\ \ \ \ public\ static\ void\ quickSort\ (int\ c)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ quickSort\ cant\ \=\ new\ quickSort(c);\r\n}
+numComments=3
